@@ -74,8 +74,8 @@
         }
     ],
     "hostedUI": true,
-    "hostedUIDomainName": "vodproject28b33d4fd-8b33d4fd",
+    "hostedUIDomainName": "vodproject234791abc-34791abc",
     "authProvidersUserPool": [],
     "hostedUIProviderMeta": "[]",
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/home/\"],\"LogoutURLs\":[\"http://localhost:3000/\"]}"
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/home/\",\"https://master.d2d7cilyuguelf.amplifyapp.com/home/\"],\"LogoutURLs\":[\"http://localhost:3000/\",\"https://master.d2d7cilyuguelf.amplifyapp.com/\"]}"
 }
