@@ -16,8 +16,11 @@ function App() {
     <Switch>
         <Route exact path="/" component={Main} />
         <Route path="/login" component={Login} />
+        <Route path="/home" component={Home} />
+          
+        {/* <Route path="/login" component={test} /> */}
+
         {/* <Route path="/test" component={test} /> */}
-        <Route exact path="/home" component={Home}/>
         {/* <Route path="/planform" component={Planform} />
         <Route path="/choose-plan" component={ChoosePlan} />
         <Route path="/choose-plan-steps" component={ChoosePlanSteps} />
