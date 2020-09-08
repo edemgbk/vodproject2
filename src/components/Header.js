@@ -17,6 +17,7 @@ class Header extends Component {
           </Link>
           <NavLink to="/login" className="btn signIn-btn">
             Sign In
+            
           </NavLink>
 
         </div>
@@ -76,7 +77,7 @@ const HeaderContainer = styled.header`
     cursor: pointer;
     transition: background 0.2s ease-in; 
     &:hover {
-      background: #d30913;
+      background: #ffac31;;
     }
     ${customMedia.lessThan("smTablet")`
       margin-top: 1.25rem;

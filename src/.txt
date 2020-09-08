@@ -1,3 +1,2 @@
-
-Hosted UI Endpoint: https://vodproject28b33d4fd-8b33d4fd-dev.auth.us-east-1.amazoncognito.com/
-Test Your Hosted UI Endpoint: https://vodproject28b33d4fd-8b33d4fd-dev.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=2iuq408hu6d9dgfnf6aovqp9jt&redirect_uri=http://localhost:3000/home/
+Hosted UI Endpoint: https://vodproject22bca6edf-2bca6edf-dev.auth.us-east-1.amazoncognito.com/
+Test Your Hosted UI Endpoint: https://vodproject22bca6edf-2bca6edf-dev.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=2iuq408hu6d9dgfnf6aovqp9jt&redirect_uri=http://localhost:3000/home/

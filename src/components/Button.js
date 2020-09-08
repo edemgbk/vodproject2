@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Button = styled.button`
   display: inline-block;
   width: ${(props) => (props.planbtn ? "100%" : "none")}
-  background: #e88b01;
+  background: #ff9900;
   text-transform: uppercase;
   border: none;
   outline: none;
@@ -17,6 +17,6 @@ export const Button = styled.button`
   transition: background 0.2s ease-in;
   cursor: pointer;
   &:hover {
-    background: #e88b01;
+    background: #ff9900;
   }
 `;

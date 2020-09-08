@@ -74,7 +74,7 @@
         }
     ],
     "hostedUI": true,
-    "hostedUIDomainName": "vodproject234791abc-34791abc",
+    "hostedUIDomainName": "vodproject22bca6edf-2bca6edf",
     "authProvidersUserPool": [],
     "hostedUIProviderMeta": "[]",
     "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/home/\",\"https://master.d2d7cilyuguelf.amplifyapp.com/home/\"],\"LogoutURLs\":[\"http://localhost:3000/\",\"https://master.d2d7cilyuguelf.amplifyapp.com/\"]}"
